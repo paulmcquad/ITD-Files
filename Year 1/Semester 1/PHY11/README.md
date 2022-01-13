@@ -53,10 +53,12 @@ Students are required to document laboratory work while laboratory is ongoing an
 
 ### BIBLIOGRAPHY
 
-Recommended Reading
+Recommended Reading:
 
-&quot;PHYSICS: Principles with applications&quot; - D.C. Giancoli,
-
-(Prentice Hall, 5th edition, 1998)
-
-&#39;Laboratory Manual&#39; (College Edition, 1997)
+| **Name**                                     | **Edition** | **Author**          | **ISBN-13** / **ASIN** |
+|----------------------------------------------|-------------|---------------------|------------------------|
+| Principles of Physics                        | 3rd         | Frank J. Blatt      | 9780205117840          |
+| Physics                                      | 5th         | A Abbott            | 9780435670146          |
+| Physics: A Practical and Conceptual Approach | 3rd         | Jerry D. Wilson     | 9780030960352          |
+| Physics: Principles with Applications        | 7th         | Douglas C. Giancoli | B01LZ2ZJDD             |
+| Patterns in Physics                          | 2nd         | W. Bolton           | 9780070849617          |
