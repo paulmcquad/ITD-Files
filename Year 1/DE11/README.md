@@ -28,12 +28,7 @@ This module aims to provide coverage of the basic circuits and techniques employ
 | 5 | Design elementary arithmetic circuitry.                                      | X  |         | X         | X          |
 |   | Overall Assessment Breakdown (% of Marks)                                                 | 10 |         | 20        | 70         |
 
-
-
-
 ### MODULE/SYLLABUS CONTENT
-
-|
 # Component / Topic
 
 | **Component / Topic**  | **Hours** |
