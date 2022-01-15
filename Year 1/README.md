@@ -10,3 +10,16 @@
 | ES11 | Electrical Science 1 |
 | MA11 | Mathematics 1 |
 | PHY11 | Physics 1 |
+
+# Semester 2 - Modules
+
+| **Course Code** | **Subject** |
+|---|:---:|
+| AE12 | Analog Electronics |
+| COM | Communications |
+| CP12 | Computer Programming |
+| CS12 | Computer Systems |
+| DE12 | Digital Electronics |
+| ES12 | Electrical Science 2 |
+| MA12 | Mathematics 2 |
+| PHY12 | Physics 2 |
