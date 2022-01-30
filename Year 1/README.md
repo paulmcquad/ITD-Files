@@ -15,10 +15,10 @@
 
 | **Course Code** | **Subject** |
 |---|:---:|
-| AE12 | Analog Electronics |
+| AE12 | Analog Electronics 2 |
 | COM | Communications |
-| CP12 | Computer Programming |
-| CS12 | Computer Systems |
+| CP12 | Computer Programming 2 |
+| CS12 | Computer Systems 2 |
 | DE12 | Digital Electronics |
 | ES12 | Electrical Science 2 |
 | MA12 | Mathematics 2 |
