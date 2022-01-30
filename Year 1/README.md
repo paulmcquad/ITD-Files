@@ -19,7 +19,7 @@
 | COM | Communications |
 | CP12 | Computer Programming 2 |
 | CS12 | Computer Systems 2 |
-| DE12 | Digital Electronics |
+| DE12 | Digital Electronics 2 |
 | ES12 | Electrical Science 2 |
 | MA12 | Mathematics 2 |
 | PHY12 | Physics 2 |
